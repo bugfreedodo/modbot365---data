@@ -1,0 +1,1417 @@
+[
+  {
+    "categoryTypeId": "General",
+    "categories": [
+      {
+        "category": "Aircraft",
+        "subcategories": [
+          { "name": "Aircraft spares", "subsubcategories": [] },
+          { "name": "Commercial aircraft", "subsubcategories": [] },
+          { "name": "Helicopters", "subsubcategories": [] },
+          { "name": "Light aircraft", "subsubcategories": [] },
+          { "name": "Microlights & gliders", "subsubcategories": [] },
+          { "name": "Other aircraft", "subsubcategories": [] }
+        ]
+      },
+      {
+        "category": "Antiques and Collectables",
+        "subcategories": [
+          {
+            "name": "Antique Cameras and Optics",
+            "subsubcategories": [
+              "Other Antique Cameras and Optics",
+              "Antique Cameras and Lenses",
+              "Antique Recorders and Projectors",
+              "Antique Binoculars and Telescopes"
+            ]
+          },
+          {
+            "name": "Antique Decor and Art",
+            "subsubcategories": [
+              "Art",
+              "Frames and Mirrors",
+              "Screens and Dividers",
+              "Embroideries and Tapestries",
+              "Antique Clocks",
+              "Other Antique Decor and Art",
+              "Carpets and Rugs",
+              "Lighting, Lamps and Chandeliers",
+              "Figurines and Ornaments",
+              "Ceramics and Porcelain",
+              "Posters and Signage"
+            ]
+          },
+          {
+            "name": "Antique Furniture",
+            "subsubcategories": [
+              "Antique Bedroom Furniture",
+              "Other Antique Furniture",
+              "Antique Living Room Furniture",
+              "Antique Dining Room Furniture",
+              "Antique Study Furniture"
+            ]
+          },
+          {
+            "name": "Antique Jewellery",
+            "subsubcategories": [
+              "Rings and Earrings",
+              "Jewellery Sets",
+              "Other Antique Jewellery",
+              "Watches and Timepieces",
+              "Bracelets and Bangles",
+              "Necklaces and Pendants",
+              "Brooches and Gemstones"
+            ]
+          },
+          {
+            "name": "Antique Kitchen and Glassware",
+            "subsubcategories": [
+              "Antique Appliances",
+              "Crystal and Glassware",
+              "Cutlery and Crockery",
+              "Decanters, Jugs and Pitchers",
+              "Other Antique Kitchen and Glassware",
+              "China and Porcelain",
+              "Silverware"
+            ]
+          },
+          {
+            "name": "Collectables and Memorabilia",
+            "subsubcategories": [
+              "Books, Magazines and Comic Books",
+              "Toys, Games, Action Figures and Dolls",
+              "Stamps, Coins and Notes",
+              "Other Collectables and Memorabilia",
+              "Postcards and Photographs",
+              "Arcade Machines and Vintage Consoles",
+              "Movie and TV Memorabilia",
+              "Militaria",
+              "Music Memorabilia",
+              "Sports Memorabilia"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Audio Visual Equipment and Electronics",
+        "subcategories": [
+          {
+            "name": "Audio Visual",
+            "subsubcategories": [
+              "Audio Visual Accessories, Cables and Adapters",
+              "Decoders and Satellites",
+              "Other Audio Visual Equipment",
+              "Music Players and Headphones",
+              "Home Theatres",
+              "Music Centres and Docking Stations",
+              "Amplifiers and Sound Equalisers",
+              "CD and Record Players",
+              "Projectors",
+              "Blu-ray and DVD Players",
+              "Televisions"
+            ]
+          },
+          {
+            "name": "Cameras and Optics",
+            "subsubcategories": [
+              "Action Cameras and Drones",
+              "Video Cameras",
+              "Telescopes",
+              "Photography Equipment",
+              "Bridge Cameras",
+              "Camera Accessories",
+              "Camera Bags and Cases",
+              "Other Cameras and Optics",
+              "Binoculars and Scopes",
+              "Camera Lenses",
+              "DSLR Cameras",
+              "Film Cameras"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Baby and Kids",
+        "subcategories": [
+          {
+            "name": "Baby Essentials",
+            "subsubcategories": [
+              "Bath-Time Essentials",
+              "Sleep-Time Essentials",
+              "Humidifiers and Sanitisers",
+              "Nappies and Changing Essentials",
+              "Playtime Essentials",
+              "Baby Monitors and Tracking",
+              "Other Baby Essentials"
+            ]
+          },
+          {
+            "name": "Clothes and Shoes",
+            "subsubcategories": [
+              "Girls' Clothes",
+              "Boys' Shoes",
+              "Baby Shoes",
+              "Girls' Shoes",
+              "Baby Clothes",
+              "Boys' Clothes"
+            ]
+          },
+          {
+            "name": "Kids Furniture",
+            "subsubcategories": [
+              "Other Kids Furniture",
+              "Desks and Chairs",
+              "Night Lamps and Desk Lamps",
+              "Storage and Shelves",
+              "Bedding and Decor",
+              "Beds"
+            ]
+          },
+          {
+            "name": "Nursery Furniture",
+            "subsubcategories": [
+              "Other Nursery Furniture",
+              "Feeding and Rocking Chairs",
+              "Shelves and Storage",
+              "Compactums and Changing Tables",
+              "Cots, Cradles and Cribs",
+              "Bedding and Decor"
+            ]
+          },
+          {
+            "name": "Safety and Travel",
+            "subsubcategories": [
+              "Other Safety and Travel",
+              "Booster Seats",
+              "Prams, Strollers and Carriers",
+              "Travel and Camp Cots",
+              "Nappy Bags and Accessories",
+              "Car Seats",
+              "Baby Proofing"
+            ]
+          },
+          {
+            "name": "Toys and Books",
+            "subsubcategories": [
+              "Other Toys and Books",
+              "Baby Toys",
+              "Children's Books",
+              "Kids Toys"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Boats & Watercraft",
+        "subcategories": [
+          { "name": "Boats and Watercraft Spares", "subsubcategories": [] },
+          { "name": "Canoes, Kayaks and Row Boats", "subsubcategories": [] },
+          { "name": "Fishing boats", "subsubcategories": [] },
+          { "name": "Jet Skis", "subsubcategories": [] },
+          { "name": "Motor Boats", "subsubcategories": [] },
+          { "name": "Other Boats", "subsubcategories": [] },
+          { "name": "Sail Boats", "subsubcategories": [] },
+          { "name": "Speed Boats", "subsubcategories": [] }
+        ]
+      },
+      {
+        "category": "Caravans, Campers and Trailers",
+        "subcategories": [
+          {
+            "name": "Campers and Motorhomes",
+            "subsubcategories": [
+              "Campervans",
+              "Motorhomes"
+            ]
+          },
+          {
+            "name": "Camping Trailers",
+            "subsubcategories": [
+              "Bush Lapa",
+              "Venter Camping Trailers",
+              "Challenger Camping Trailers",
+              "Other Camping Trailers",
+              "Conqueror Trailers",
+              "Echo 4x4 Trailers",
+              "Camp Master",
+              "Bushwakka"
+            ]
+          },
+          {
+            "name": "Caravans",
+            "subsubcategories": [
+              "Other Caravans",
+              "Sprite Caravans",
+              "Bush Lapa Off-Road Caravans",
+              "Conqueror Off-Road Caravans",
+              "Gypsy Caravans",
+              "Echo 4x4 Caravans",
+              "Jurgens Caravans",
+              "Other Off-Road Caravans",
+              "Gecko Caravans"
+            ]
+          },
+          {
+            "name": "Trailers",
+            "subsubcategories": [
+              "Camp Master Trailers",
+              "Venter Trailers",
+              "Challenger Trailers",
+              "Jurgens Trailers",
+              "Other Trailers",
+              "Bike Trailers"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Classic Cars, Bikes and Custom Built",
+        "subcategories": [
+          {
+            "name": "Classic Bikes",
+            "subsubcategories": [
+              "Honda",
+              "Suzuki",
+              "BMW",
+              "BSA",
+              "Harley-Davidson",
+              "Kawasaki",
+              "Yamaha",
+              "Ducati",
+              "Other Classic Bikes",
+              "Triumph"
+            ]
+          },
+          {
+            "name": "Classic Cars",
+            "subsubcategories": [
+              "AC Cobra",
+              "Citroen",
+              "Morris",
+              "AMC",
+              "Toyota",
+              "Bentley",
+              "Volvo",
+              "Datsun",
+              "Cadillac",
+              "Volkswagen",
+              "Aston Martin",
+              "BMW",
+              "Alfa Romeo",
+              "Peugeot",
+              "Ford",
+              "MG",
+              "Other Classic Cars",
+              "Fiat",
+              "Dodge",
+              "Wolseley",
+              "Lancia",
+              "Buick",
+              "Chrysler",
+              "Mercedes-Benz",
+              "Triumph",
+              "Studebaker",
+              "DKW",
+              "Chevrolet",
+              "Pontiac"
+            ]
+          },
+          {
+            "name": "Custom and Rebuilds",
+            "subsubcategories": [
+              "Rebuilt Cars",
+              "Custom-Built Cars",
+              "Custom-Built Bikes",
+              "Rebuilt Bikes",
+              "Other Custom and Rebuilds"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Community and Events",
+        "subcategories": [
+          {
+            "name": "Community",
+            "subsubcategories": [
+              "Volunteering",
+              "Hobby Groups",
+              "Sports Groups",
+              "Lost, Found and Stolen",
+              "Other Community Activities and Events"
+            ]
+          },
+          {
+            "name": "Events and Tickets",
+            "subsubcategories": [
+              "Sports Events",
+              "Festivals and Expos",
+              "Music Festivals and Performances",
+              "Other Events and Tickets",
+              "Boot and Garage Sales",
+              "Event Transport",
+              "Markets and Flea Markets"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Computers and Gaming",
+        "subcategories": [
+          {
+            "name": "Gaming",
+            "subsubcategories": [
+              "Xbox Games",
+              "Other Console Games",
+              "Other Gaming",
+              "PlayStation Games",
+              "Console Controllers and Accessories",
+              "Nintendo Games",
+              "Gaming PCs",
+              "Nintendos",
+              "Gaming Laptops",
+              "PC Gaming Accessories",
+              "Other Gaming Consoles",
+              "Xbox",
+              "PC Games",
+              "PlayStations"
+            ]
+          },
+          {
+            "name": "Laptops and Computers",
+            "subsubcategories": [
+              "Data Storage",
+              "PCs",
+              "Other Laptops, Computers and Accessories",
+              "Networking, Routers and Modems",
+              "iMacs",
+              "Laptops",
+              "Notebooks",
+              "PC Components and Hardware",
+              "Cables, Adapters and Accessories",
+              "MacBooks"
+            ]
+          },
+          {
+            "name": "Software",
+            "subsubcategories": [
+              "Design and Graphic Software",
+              "Training and Educational Software",
+              "Tools and Utilities",
+              "Accounting Software",
+              "Photo and Video Editing Software",
+              "Operating Systems",
+              "Office Suites and Software",
+              "Other Software"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "COVID-19 Products and Services",
+        "subcategories": [
+          {
+            "name": "COVID-19 Personal Protective Equipment",
+            "subsubcategories": [
+              "Coats",
+              "Disposable Hair and Shoe Covers",
+              "Overhauls",
+              "Goggles",
+              "Face Shields",
+              "Aprons",
+              "Gloves",
+              "Respirators and Respirator Cartridges",
+              "Face Masks"
+            ]
+          },
+          {
+            "name": "COVID-19 Services",
+            "subsubcategories": [
+              "Environmental Cleaning Services",
+              "Sanitisation and Cleaning Services",
+              "Compliance Services",
+              "Waste Management Services",
+              "COVID-19 Laundry Services"
+            ]
+          },
+          {
+            "name": "COVID-19 Workplace Compliance",
+            "subsubcategories": [
+              "Disposable Paper Towels",
+              "Other Disinfectants",
+              "Dividers, Guards and Screens",
+              "High-Efficiency Air Filters",
+              "Thermometers",
+              "Signage",
+              "No-Touch Refuse Bins",
+              "Sanitisation Products",
+              "Soap"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Fashion, Beauty and Clothing",
+        "subcategories": [
+          {
+            "name": "Accessories",
+            "subsubcategories": [
+              "Luggage",
+              "Hair Accessories",
+              "Other Accessories",
+              "Caps and Hats",
+              "Belts",
+              "Handbags, Wallets and Clutches",
+              "Backpacks",
+              "Sunglasses",
+              "Scarves, Gloves and Beanies"
+            ]
+          },
+          {
+            "name": "Clothes",
+            "subsubcategories": [
+              "Men's Shoes",
+              "Ladies' Shoes",
+              "Formal Wear",
+              "School Uniforms",
+              "Wedding Dresses and Attire",
+              "Ladies' Clothing",
+              "Men's Clothing",
+              "Other Clothes"
+            ]
+          },
+          {
+            "name": "Health and Beauty",
+            "subsubcategories": [
+              "Make-up and Cosmetics",
+              "Esoteric and Holistic Health",
+              "Medical Equipment and Products",
+              "Soaps and Moisturisers",
+              "Skincare Products and Accessories",
+              "Fragrances and Perfumes",
+              "Haircare Products and Accessories",
+              "Other Health and Beauty"
+            ]
+          },
+          {
+            "name": "Jewellery and Watches",
+            "subsubcategories": [
+              "Costume Jewellery",
+              "Men's Watches",
+              "Ladies' Watches",
+              "Bracelets and Bangles",
+              "Necklaces and Pendants",
+              "Jewellery Sets",
+              "Earrings and Piercings",
+              "Brooches",
+              "Rings",
+              "Other Jewellery",
+              "Gemstones"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Gardening, Outdoors and DIY",
+        "subcategories": [
+          {
+            "name": "Braai and Outdoor Cooking Equipment",
+            "subsubcategories": [
+              "Kettle Braais",
+              "Mobile Gas Braais",
+              "Extractor Hoods",
+              "Mobile Charcoal Braais",
+              "Potjies and Accessories",
+              "Other Outdoor Cooking Equipment",
+              "Built-in Braai Accessories",
+              "Smokers",
+              "Drop-in Gas Braais",
+              "Braai Consumables",
+              "Braai Tools and Accessories",
+              "Other Braai Equipment",
+              "Built-in Charcoal Braais"
+            ]
+          },
+          {
+            "name": "Building and DIY",
+            "subsubcategories": [
+              "Windows and Doors",
+              "Exterior Paint",
+              "Building Materials",
+              "Sanitary Ware",
+              "Electrical and Plumbing",
+              "Power Tools",
+              "Woodworking Tools",
+              "Other Building and DIY",
+              "Interior Paint",
+              "Hand Tools"
+            ]
+          },
+          {
+            "name": "Gardening",
+            "subsubcategories": [
+              "Pots and Planters",
+              "Gardening Tools",
+              "Plants, Trees and Seeds",
+              "Lawnmowers and Trimmers",
+              "Other Gardening"
+            ]
+          },
+          {
+            "name": "Outdoor Structures",
+            "subsubcategories": [
+              "Wendy Houses and Log Cabins",
+              "Containers",
+              "Lapas",
+              "Other Sheds and Huts",
+              "Jungle Gyms and Swing Sets",
+              "Garden Sheds",
+              "Carports and Awnings",
+              "Other Outdoor Structures"
+            ]
+          },
+          {
+            "name": "Pools and Accessories",
+            "subsubcategories": [
+              "Pool Pumps and Fittings",
+              "Jacuzzis",
+              "Kids Pools",
+              "Ladders, Slides and Pool Toys",
+              "Other Pool Accessories",
+              "Pool Safety",
+              "Above-Ground Pools",
+              "Pool Maintenance",
+              "Swimming Pools",
+              "Inflatable Pools"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Household",
+        "subcategories": [
+          {
+            "name": "Consumables",
+            "subsubcategories": [
+              "Daily Products",
+              "Fruit and Veg",
+              "Nuts",
+              "Legumes"
+            ]
+          },
+          {
+            "name": "Furniture",
+            "subsubcategories": [
+              "Bedroom Furniture",
+              "Other Furniture",
+              "Bar Furniture",
+              "Dining Room Furniture",
+              "Garden and Patio Furniture",
+              "Living Room Furniture",
+              "Home Office Furniture"
+            ]
+          },
+          {
+            "name": "Home Appliances",
+            "subsubcategories": [
+              "Washing Machines",
+              "Tumble Dryers",
+              "Heaters and Home Heating",
+              "Carpet Cleaners",
+              "Vacuum Cleaners",
+              "Other Home Appliances",
+              "Air Conditioners, Fans and Home Cooling"
+            ]
+          },
+          {
+            "name": "Home Decor",
+            "subsubcategories": [
+              "Photo Frames, Vases and Wall Art",
+              "Curtains",
+              "Mirrors",
+              "Lighting",
+              "Rugs",
+              "Art and Wall Decor",
+              "Paint",
+              "Other Home Decor",
+              "Bedding and Linen"
+            ]
+          },
+          {
+            "name": "Home Security and Safety",
+            "subsubcategories": [
+              "Alarms",
+              "Fire Safety and Supplies",
+              "Other Home Security and Safety",
+              "Safes and Locks",
+              "CCTV Cameras",
+              "Security Lights",
+              "Security Gates and Motors",
+              "Home Security Systems"
+            ]
+          },
+          {
+            "name": "Kitchen and Kitchen Appliances",
+            "subsubcategories": [
+              "Dishwashers",
+              "Kitchen Furniture",
+              "Other Kitchen Appliances",
+              "Stoves",
+              "Cookware",
+              "Juicers, Mixers and Blenders",
+              "Ovens",
+              "Fridges and Freezers",
+              "Crockery",
+              "Cutlery",
+              "Speciality Appliances",
+              "Kitchen Cupboards",
+              "Microwave ovens",
+              "Coffee Machines and Kettles"
+            ]
+          },
+          {
+            "name": "Personal Protection",
+            "subsubcategories": [
+              "Air Horns, Personal Alarms and Whistles",
+              "Handguns",
+              "Tasers",
+              "Stun Guns",
+              "Pepper Spray",
+              "Other Personal Protection Items"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Leisure",
+        "subcategories": [
+          {
+            "name": "Books and Movies",
+            "subsubcategories": [
+              "Other Books and Movies",
+              "Magazines",
+              "Fiction Books",
+              "School and University Textbooks",
+              "Manga",
+              "Comic Books",
+              "Graphic Novels",
+              "DVDs and Blu-ray",
+              "Resource and Reference Books",
+              "Non-Fiction Books"
+            ]
+          },
+          {
+            "name": "Caravan Furniture and Appliances",
+            "subsubcategories": [
+              "Caravan Tables and Legs",
+              "Caravan Fridges",
+              "Caravan Air Conditioners",
+              "Other Caravan Appliances",
+              "Caravan Furniture Fittings",
+              "Caravan Beds",
+              "Caravan Washing Machines",
+              "Caravan Cupboards",
+              "Other Caravan Furniture",
+              "Caravan Stoves"
+            ]
+          },
+          {
+            "name": "Hobbies and Interests",
+            "subsubcategories": [
+              "Radios and CBS",
+              "Art, Crafts and Scrapbooking",
+              "Electronics",
+              "Other Hobbies",
+              "Model Toys",
+              "Pottery",
+              "Knitting and Sewing"
+            ]
+          },
+          {
+            "name": "Music and Musical Instruments",
+            "subsubcategories": [
+              "Mixers, Turntables and Electronic Music Equipment",
+              "Musical Accessories & Other Equipment",
+              "Music DVDs",
+              "Musical Instruments",
+              "Bands and Music Groups",
+              "CDs, Tapes and Vinyl",
+              "Other Music and Instruments",
+              "Sheet Music"
+            ]
+          },
+          {
+            "name": "Outdoor and Adventure",
+            "subsubcategories": [
+              "Other Outdoor and Adventure",
+              "Off-Roading and 4x4 Accessories",
+              "Camping and Camping Equipment",
+              "Walking and Hiking"
+            ]
+          },
+          {
+            "name": "Travel and Getaways",
+            "subsubcategories": [
+              "Lift Clubs",
+              "Other Travel",
+              "Holiday Lifts",
+              "Flight and Bus Tickets",
+              "Holiday Packages"
+            ]
+          },
+          {
+            "name": "Vapes and Hubblies",
+            "subsubcategories": [
+              "Vaping Devices",
+              "Hubblies and Hookahs"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Mobile Devices",
+        "subcategories": [
+          {
+            "name": "GPS and Tracking",
+            "subsubcategories": [
+              "GPS Trackers",
+              "GPS Kits and Accessories",
+              "GPS Devices",
+              "Other GPS and Tracking"
+            ]
+          },
+          {
+            "name": "Mobile Accessories",
+            "subsubcategories": [
+              "Batteries, Chargers and Power Banks",
+              "Car Kits",
+              "Memory Cards",
+              "Other Mobile Accessories",
+              "Adapters and Cables",
+              "Cases and Covers"
+            ]
+          },
+          {
+            "name": "Smartphones and Tablets",
+            "subsubcategories": [
+              "iPads",
+              "Lenovo Tablets",
+              "Huawei Smartphones",
+              "E-readers and Kindles",
+              "Other Tablets",
+              "LG Smartphones",
+              "Samsung Smartphones",
+              "iPhones",
+              "BlackBerry Smartphones",
+              "Other Smartphones",
+              "Samsung Tablets"
+            ]
+          },
+          {
+            "name": "Wearable Tech",
+            "subsubcategories": [
+              "Other Wearable Tech",
+              "Fitness Trackers",
+              "Heart Rate Monitors",
+              "Smartwatches"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Office and Business",
+        "subcategories": [
+          {
+            "name": "Businesses For Sale",
+            "subsubcategories": [
+              "Online Business",
+              "Retail Business",
+              "Manufacturers",
+              "Wholesalers",
+              "Other Business Opportunities",
+              "Service Business"
+            ]
+          },
+          {
+            "name": "Office Equipment",
+            "subsubcategories": [
+              "Printers, Scanners and Copiers",
+              "Other Office Equipment",
+              "Shredders and Cutters",
+              "Telephones and Fax Machines",
+              "Laminators and Binders"
+            ]
+          },
+          {
+            "name": "Office Furniture",
+            "subsubcategories": [
+              "Boardroom Furniture",
+              "Other Office Furniture",
+              "Office Chairs",
+              "Desks",
+              "Reception Furniture",
+              "Filing Cabinets"
+            ]
+          },
+          {
+            "name": "Office Supplies",
+            "subsubcategories": [
+              "Stationery and Paper",
+              "Ink and Toner",
+              "Other Office Supplies"
+            ]
+          },
+          {
+            "name": "Other Business Equipment",
+            "subsubcategories": [
+              "Industrial Machinery",
+              "POS Systems and Registers"
+            ]
+          },
+          {
+            "name": "Restaurant and Catering Equipment",
+            "subsubcategories": [
+              "Butchery Equipment",
+              "Other Restaurant and Catering Equipment",
+              "Storage and Handling",
+              "Tables, Sinks and Counters",
+              "Heating Equipment",
+              "Refrigeration",
+              "Glassware, Cutlery and Crockery",
+              "Buffet and Display Ware",
+              "Gas Equipment",
+              "Bakery Equipment",
+              "Electrical Equipment",
+              "Food Trailers and Trucks"
+            ]
+          },
+          {
+            "name": "Sustainable Energy Solutions",
+            "subsubcategories": [
+              "Solar Solutions",
+              "Gas Solutions",
+              "Wind Power Solutions"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Pets",
+        "subcategories": [
+          { "name": "Adopt a Cat", "subsubcategories": [] },
+          { "name": "Adopt a Dog", "subsubcategories": [] },
+          { "name": "Adopt a Pet", "subsubcategories": [] },
+          { "name": "Birds", "subsubcategories": [] },
+          { "name": "Cats and Kittens", "subsubcategories": [] },
+          { "name": "Dogs and Puppies", "subsubcategories": [] },
+          { "name": "Fish", "subsubcategories": [] },
+          { "name": "Horse Accessories amd Feed", "subsubcategories": [] },
+          { "name": "Horses and Ponies", "subsubcategories": [] },
+          { "name": "Mice and Rodents", "subsubcategories": [] },
+          { "name": "Other Pets", "subsubcategories": [] },
+          {
+            "name": "Pet Food and Accessories",
+            "subsubcategories": [
+              "Fish Tanks and Aquariums",
+              "Bird Aviaries and Cages",
+              "Terrariums",
+              "Cat Accessories",
+              "Dog Accessories",
+              "Mice, Hamster and Rabbit Cages",
+              "Pet Food",
+              "Other Cages and Animal Supplies"
+            ]
+          },
+          { "name": "Rabbits and Guinea Pigs", "subsubcategories": [] },
+          { "name": "Reptiles", "subsubcategories": [] }
+        ]
+      },
+      {
+        "category": "Services",
+        "subcategories": [
+          {
+            "name": "Appliance Repair Services",
+            "subsubcategories": [
+              "Washing Machine Repairs",
+              "Dishwasher Repairs",
+              "Mixer Repairs",
+              "Extractor Fan Repairs",
+              "Fryer Repairs",
+              "Air Conditioning Services and Repairs",
+              "Urn, Kettle and Coffee Machine Repairs",
+              "Heater Repairs",
+              "Tumble Dryer Repairs",
+              "Stove, Cooktop and Oven Repairs",
+              "Fridge and Freezer Repairs",
+              "Toaster Repairs",
+              "Vacuum Cleaner Repairs",
+              "Other Appliance Repair Services",
+              "Microwave Oven Repairs"
+            ]
+          },
+          {
+            "name": "Automotive Services",
+            "subsubcategories": [
+              "Body Builders",
+              "Wheel Fitment, Balancing and Alignment",
+              "Mechanics",
+              "Auto Glass and Windscreens",
+              "Classic Car Restoration",
+              "Auto Electrical Services",
+              "Caravan/Trailer Repairs, Customisations and Remodelling",
+              "Other Automotive Services",
+              "Motorcycle Services",
+              "Skimming and Bonding Services",
+              "Panel Beaters",
+              "Hydraulics and Cables"
+            ]
+          },
+          {
+            "name": "Childcare",
+            "subsubcategories": [
+              "Au Pairs and Babysitters",
+              "Kindergartens and Playgroups",
+              "Day-Care Services",
+              "After-School Care",
+              "Other Childcare Services",
+              "Nannies"
+            ]
+          },
+          {
+            "name": "Cleaning Services",
+            "subsubcategories": [
+              "Window Cleaning",
+              "Hygiene Services",
+              "Contract Cleaning",
+              "Fire Cleaning",
+              "Flood Cleaning",
+              "Carpet and Rug Cleaning",
+              "Grease Trap Cleaning and Maintenance",
+              "Other Cleaning Services",
+              "Deep Cleaning",
+              "Pre/Post-Occupation Cleaning",
+              "Specialised Cleaning",
+              "High-rise Cleaning"
+            ]
+          },
+          {
+            "name": "Education and Training Providers",
+            "subsubcategories": [
+              "Computer Training",
+              "Tutoring Services",
+              "Courses and Training",
+              "Tertiary Education Institutes",
+              "Classes and Workshops",
+              "Online Course Providers",
+              "Other Education Services",
+              "Training Providers"
+            ]
+          },
+          {
+            "name": "Electronic Installation and Repair Services",
+            "subsubcategories": [
+              "Other Electronic Installation and Repair Services",
+              "Mobile Device Repairs",
+              "Wi-Fi and Fibre",
+              "PA Systems",
+              "PC Repairs",
+              "HDMI/LAN",
+              "Projectors",
+              "Sound and Entertainment Systems"
+            ]
+          },
+          {
+            "name": "Events",
+            "subsubcategories": [
+              "Decor Hire",
+              "DJ and Entertainment Services",
+              "Photographers and Videographers",
+              "Event Planning",
+              "Other Event Services",
+              "Catering Services",
+              "Venue Hire",
+              "Car Rentals"
+            ]
+          },
+          {
+            "name": "Financial Services",
+            "subsubcategories": [
+              "Funeral Cover",
+              "Insurance Services",
+              "Debt Collection Services",
+              "Credit Control Services",
+              "Tax Services",
+              "Accounting Services",
+              "Auditing Services",
+              "Loan Services"
+            ]
+          },
+          {
+            "name": "Gardening Services",
+            "subsubcategories": [
+              "Pond and Water Feature Services",
+              "Landscaping Services",
+              "Irrigation",
+              "Other Gardening Services",
+              "Sports Field Services",
+              "Garden Maintenance",
+              "Tree Felling"
+            ]
+          },
+          {
+            "name": "Health, Beauty and Wellness Services",
+            "subsubcategories": [
+              "Health Services",
+              "Tanning",
+              "Beauty Treatments",
+              "Laser Hair Removal",
+              "Lash Extensions",
+              "Other Health, Beauty and Wellness Services",
+              "Spa Treatments",
+              "Tattoos and Body Art",
+              "Hair Dressing Services",
+              "Endermologie Treatments",
+              "Permanent Make-up"
+            ]
+          },
+          {
+            "name": "IT Services",
+            "subsubcategories": [
+              "IT Equipment Hire",
+              "VoIP Services",
+              "Other IT Services",
+              "Cloud Computing Services",
+              "Database Management",
+              "Computer Repairs",
+              "IT Support Services"
+            ]
+          },
+          {
+            "name": "Legal Services",
+            "subsubcategories": [
+              "Tax Dispute Resolution and Litigation",
+              "Environmental and Mining",
+              "Personal Injury",
+              "Road Accident Fund (RAF) Claims",
+              "Insurance Litigation",
+              "Consumer Protection",
+              "Corporate and Commercial",
+              "Deceased Estates, Wills and Trusts",
+              "Employment and Labour",
+              "Other Legal Services",
+              "Professional Negligence",
+              "Property Law",
+              "Insolvency",
+              "Family Law",
+              "Professional Indemnity",
+              "Intellectual property"
+            ]
+          },
+          {
+            "name": "Maintenance and Construction Services",
+            "subsubcategories": [
+              "Plastering Services",
+              "Electrical Services",
+              "Fencing Services",
+              "Paving Services",
+              "Other Building Maintenance Services",
+              "Guttering Services",
+              "Recycling Services",
+              "Rubble Removal",
+              "Roofing Services",
+              "Building Services",
+              "Renovation Services",
+              "Waterproofing Services",
+              "Tiling and Cladding Services",
+              "Gate and Garage Door Services",
+              "Painting Services",
+              "Plumbing Services",
+              "Scaffolding Services",
+              "Handyman Services",
+              "Dry Walling Services",
+              "Other Construction Services",
+              "Carpentry Services"
+            ]
+          },
+          {
+            "name": "Manufacturing Services",
+            "subsubcategories": [
+              "Plating",
+              "Metal Painting",
+              "Fitting and Turning",
+              "Laser Cutting",
+              "Tool Making",
+              "CNC Machining",
+              "Metal Fabrication",
+              "Welding",
+              "Metal Pressing and Bending"
+            ]
+          },
+          {
+            "name": "Online Marketing and Design Services",
+            "subsubcategories": [
+              "Other Marketing and Design Services",
+              "Corportate Branding Services",
+              "App Development",
+              "Website Hosting",
+              "Email Marketing",
+              "Social Media Marketing",
+              "Google Ads",
+              "Printing Services",
+              "Content Creation",
+              "YouTube and Video Marketing",
+              "Search Engine Optimisation",
+              "Graphic Design",
+              "Web Design and Development"
+            ]
+          },
+          {
+            "name": "Pest Control Services",
+            "subsubcategories": [
+              "Pre-Construction Termite Control",
+              "HACCP Pest Control",
+              "Other Pest Control Services",
+              "Soil Poisoning Services",
+              "Pest Proofing Services",
+              "Weed Control",
+              "Domestic Pest Control",
+              "Commercial and Industrial Pest Control"
+            ]
+          },
+          {
+            "name": "Pet Services",
+            "subsubcategories": [
+              "Pet Hotels",
+              "Other Pet Services",
+              "Pet Grooming",
+              "Dog Walkers",
+              "Pet Sitting",
+              "Veterinarians",
+              "Pet Relocation Services"
+            ]
+          },
+          {
+            "name": "Professional and Business Services",
+            "subsubcategories": [
+              "Recreational Activities",
+              "Photography and Videography",
+              "Other Professional and Business Services",
+              "Entertainment",
+              "Sport and Fitness Training",
+              "Interior Design and Decorating",
+              "Admin Services"
+            ]
+          },
+          {
+            "name": "Real Estate Services",
+            "subsubcategories": [
+              "Residential Letting",
+              "Other Real Estate Services",
+              "Development Services",
+              "Residential Sales",
+              "Commercial Services",
+              "Property Management Services",
+              "Bank Assisted Sales"
+            ]
+          },
+          {
+            "name": "Recruitment Services",
+            "subsubcategories": [
+              "Other Recruitment Services",
+              "Contract Placement",
+              "Temporary Placement",
+              "Permanent Placement",
+              "International Recruitment",
+              "Project Recruitment"
+            ]
+          },
+          {
+            "name": "Relocation Services",
+            "subsubcategories": [
+              "Other Relocation Services",
+              "International Relocations",
+              "Moving Companies",
+              "Packing Services",
+              "Office Relocations",
+              "Fine Art Relocation Services",
+              "Vehicle Transport Services",
+              "Storage Services",
+              "Residential Relocations"
+            ]
+          },
+          {
+            "name": "Satellite Dish Installations and Repairs",
+            "subsubcategories": [
+              "Other Satellite Dish Installations and Repairs",
+              "Complex and Apartment Installations",
+              "Hotel, Lodge and Guest House Installations",
+              "Residential Installations",
+              "Dish and Decoder Repairs",
+              "Guest House Installations",
+              "Aerial Repairs"
+            ]
+          },
+          {
+            "name": "Security Services",
+            "subsubcategories": [
+              "VIP Protection",
+              "Other Security Services",
+              "Alarm Installations",
+              "CCTV and Alarm Repair Services",
+              "Armed Response",
+              "Private Investigators",
+              "Security Companies",
+              "CCTV Installations and Remote Monitoring"
+            ]
+          },
+          {
+            "name": "Tailors and Dressmakers",
+            "subsubcategories": [
+              "Tailors",
+              "Seamstresses",
+              "Other Sewing and Tailoring Services",
+              "Dressmakers"
+            ]
+          },
+          {
+            "name": "Transport and Shuttle Services",
+            "subsubcategories": [
+              "Shuttle Services",
+              "Abnormal Load Transport",
+              "Logistics",
+              "Bus Hire",
+              "Vehicle Leasing",
+              "Chauffeur Services",
+              "Trailer Hire",
+              "Truck Hire",
+              "Other Fleet Services",
+              "Tours",
+              "Other Transport and Shuttle Services",
+              "Car Hire",
+              "Airport Transfer Services",
+              "Van Hire"
+            ]
+          },
+          {
+            "name": "Travel Services",
+            "subsubcategories": [
+              "Other Travel Services",
+              "Travel Agents"
+            ]
+          },
+          {
+            "name": "Upholstery and Restoration Services",
+            "subsubcategories": [
+              "Antique Furniture Restorations",
+              "Leather Furniture Treatments and Restoration",
+              "Other Upholstery and Restoration Services",
+              "Furniture Upholstery",
+              "Office Furniture Upholstery",
+              "Furniture Repairs",
+              "Custom Made Furniture"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Sports",
+        "subcategories": [
+          {
+            "name": "Angling and Fishing",
+            "subsubcategories": [
+              "Hooks, Lines and Sinkers",
+              "Fishing Tackle and Lures",
+              "Other Fishing Equipment and Gear",
+              "Rods and Reels"
+            ]
+          },
+          {
+            "name": "Cycling",
+            "subsubcategories": [
+              "Cycling Clothing",
+              "BMX",
+              "Cycling Shoes",
+              "Other Cycling Accessories",
+              "Cycle Gear",
+              "Road Bikes",
+              "Kids Bikes",
+              "Mountain Bikes"
+            ]
+          },
+          {
+            "name": "Fitness and Gym Equipment",
+            "subsubcategories": [
+              "Cross Training and Cross Training Equipment",
+              "Cardio and Cardio Equipment",
+              "Yoga and Pilates",
+              "Weights and Weight Training",
+              "Other Gym Equipment"
+            ]
+          },
+          {
+            "name": "Hunting",
+            "subsubcategories": [
+              "Bows",
+              "Hunting Knives",
+              "Telescopes",
+              "Camouflage",
+              "Hunting Packages",
+              "Other Hunting Equipment",
+              "Rifles",
+              "Ammunition",
+              "Shoes and Clothing"
+            ]
+          },
+          {
+            "name": "Individual Sports",
+            "subsubcategories": [
+              "Athletics",
+              "Dancing",
+              "Table Tennis",
+              "Swimming",
+              "Equestrian",
+              "Other Individual Sports",
+              "Tennis and Squash",
+              "Ice Skating",
+              "Running",
+              "Boxing and Martial Arts",
+              "Gymnastics",
+              "Golf"
+            ]
+          },
+          {
+            "name": "Other Action Sports",
+            "subsubcategories": [
+              "Paintball",
+              "Other Action Sports",
+              "Skydiving, Paragliding and Bungee Jumping",
+              "Skiing and Snowboarding",
+              "Skateboards and Longboards"
+            ]
+          },
+          {
+            "name": "Team Sports",
+            "subsubcategories": [
+              "Netball",
+              "Other Team Sports",
+              "Rugby",
+              "Soccer",
+              "Hockey",
+              "Cricket"
+            ]
+          },
+          {
+            "name": "Water Sports",
+            "subsubcategories": [
+              "Surfing and Body Boarding",
+              "Other Water Sports",
+              "Swimming",
+              "Windsurfing and Kite Surfing",
+              "Scuba Diving and Snorkelling"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

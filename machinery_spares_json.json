@@ -1,0 +1,277 @@
+[
+  {
+    "categoryTypeId": "Spares",
+    "categories": [
+      {
+        "category": "Machinery Spares and Parts",
+        "subcategories": [
+          {
+            "name": "Bearings",
+            "subsubcategories": [
+              "Spherical Roller Bearings",
+              "Conical Bearings",
+              "Thrust Ball Bearings",
+              "Roller Bearings",
+              "Angular Contact Ball Bearings",
+              "Ball Bearings",
+              "Tapered Bearings"
+            ]
+          },
+          {
+            "name": "Brake Parts",
+            "subsubcategories": [
+              "Handbrake Lever",
+              "Brake Shoes / Pads",
+              "Master Brake Cylinder Kits",
+              "Hubs",
+              "Brake Wheel Cylinders",
+              "Brake Assemblies",
+              "Brake Pumps",
+              "Brake Pedals",
+              "Brake Adjuster Screw Assemblies",
+              "Parking Brake Cables",
+              "Brake Calipers",
+              "Brake Adjuster Kits",
+              "Brake Drums / Discs",
+              "Master Brake Cylinder",
+              "Brake Pipes and Hoses"
+            ]
+          },
+          {
+            "name": "Chassis Components",
+            "subsubcategories": [
+              "Inching Cables",
+              "Seats",
+              "Engine Hood Cables",
+              "Gas Springs",
+              "Safety Belts",
+              "Accelerator Cables"
+            ]
+          },
+          {
+            "name": "Clutches and Pedals",
+            "subsubcategories": [
+              "Gear Rings",
+              "Clutch Discs",
+              "Clutch Pack Seal Rings",
+              "Clutch Kits",
+              "Pedals",
+              "Cylinders and Hoses",
+              "Clutch Covers",
+              "Fly Wheel"
+            ]
+          },
+          {
+            "name": "Cooling Systems",
+            "subsubcategories": [
+              "Radiator Caps",
+              "Radiators",
+              "Fan Blades",
+              "Water Pumps",
+              "Thermostats",
+              "Fan Belt",
+              "Radiator hoses",
+              "Temperature Switches",
+              "Water Temperature Sensors",
+              "Fan Belt Pulley",
+              "Thermostat Housings"
+            ]
+          },
+          {
+            "name": "Electrical Components",
+            "subsubcategories": [
+              "Limit Switches",
+              "Lamps",
+              "Back-up Alarms and Horns",
+              "Emergency Stop Switches",
+              "Solenoid Valves and Switches",
+              "Combination Switch",
+              "Bulbs",
+              "Ignition and Stop Light Switches",
+              "Forward and Reverse Switches",
+              "Glow Plugs",
+              "Oil Temperature Sensor",
+              "Spark Plugs",
+              "Fuses",
+              "Toggle Switches",
+              "Relays",
+              "Joysticks",
+              "Carburetors",
+              "Battery Switches",
+              "Starters",
+              "Contactor Kits",
+              "EPS Components",
+              "Contactor Assemblies",
+              "Alternators",
+              "Horns",
+              "Oil Pressure Sensor",
+              "Combination Meter Assemblies",
+              "Control Boxes",
+              "Transistors",
+              "Relays and Timers",
+              "Accelerator Pedal Assemblies",
+              "Fuse Boxes",
+              "Battery Connectors"
+            ]
+          },
+          {
+            "name": "Engine Parts",
+            "subsubcategories": [
+              "Connecting Rods",
+              "Oil Pumps",
+              "Distributor Components",
+              "Timing Gears",
+              "Fuel Pumps",
+              "Distributors",
+              "Cylinder Liners",
+              "Camshafts",
+              "Fuel Injectors",
+              "Distributor Modules",
+              "Valve Guides",
+              "Cylinder Heads",
+              "Crankshafts",
+              "Manifolds",
+              "Piston Ring Sets",
+              "Timing Belt / Chain",
+              "Pistons",
+              "Engine Overhaul Kits",
+              "Tappit Cover Gasket",
+              "Timing Covers",
+              "Engine Mountings",
+              "Connecting Rod Bearings",
+              "Tensioners",
+              "Rocker Arm Assemblies",
+              "Gaskets",
+              "Crankshaft Bearing Sets",
+              "Seals and Sealing Kits"
+            ]
+          },
+          {
+            "name": "Filters",
+            "subsubcategories": [
+              "Air Filters",
+              "Stainers",
+              "Hydraulic Filters",
+              "Oil Filters",
+              "Fuel Filters",
+              "Transmission Filters"
+            ]
+          },
+          {
+            "name": "Hydraulic Parts",
+            "subsubcategories": [
+              "Hydraulic Pumps",
+              "Control Valve and Kits",
+              "Orbitols and Orbitol Kits",
+              "Control Valves and Kits",
+              "Pulleys",
+              "Hydraulic Cylinders"
+            ]
+          },
+          {
+            "name": "Mast Parts",
+            "subsubcategories": [
+              "Chains",
+              "Mast Rollers",
+              "Lift Cylinder Sealing Kits",
+              "Side Shaft",
+              "Forks",
+              "Mast Bushes",
+              "Lift Cylinder Assemblies",
+              "Tilt Cylinder Assemblies",
+              "Load Brackets",
+              "Mast Bearings",
+              "Tilt Cylinder Sealing Kits"
+            ]
+          },
+          {
+            "name": "Seals and O-Rings",
+            "subsubcategories": [
+              "Bulk Seals",
+              "O-Rings",
+              "Resealable O-Ring Packages",
+              "O-Ring Seal Kits",
+              "Rectangular Seals and Rings",
+              "Sealing Washers",
+              "Seals For Fuel Systems",
+              "Backup Rings"
+            ]
+          },
+          {
+            "name": "Sensors",
+            "subsubcategories": [
+              "Sensors"
+            ]
+          },
+          {
+            "name": "Steering Components",
+            "subsubcategories": [
+              "Tie Rod Ends",
+              "Steering Axles",
+              "King Pins",
+              "Steering Pins",
+              "Steering Wheels",
+              "Steering Columns",
+              "Steering Knobs",
+              "Steering Pumps and Valves",
+              "Steering Hubs",
+              "King Pin Kits",
+              "Steering Links",
+              "Flanges",
+              "Steering Knuckles",
+              "Steering Link Collars",
+              "Steering Cylinders",
+              "Steering Cylinder Sealing Kits"
+            ]
+          },
+          {
+            "name": "Transmissions, Gearboxes and Diffs",
+            "subsubcategories": [
+              "Gear and Pinions",
+              "Propeller Shaft Assemblies",
+              "Differential Clutch",
+              "Complete Gearboxes",
+              "Synchronisers and Synchro Rings",
+              "Charging Pumps",
+              "Case Mounts",
+              "Differential Case",
+              "Transmission Kits",
+              "Complete Differentials",
+              "Transmission Case Mounts",
+              "Differential Seals",
+              "Friction Plates and Steel Plates",
+              "Torque Converters",
+              "Pumps and Filters",
+              "Differential Gear"
+            ]
+          },
+          {
+            "name": "Tyres",
+            "subsubcategories": [
+              "DELTA PREMIUM",
+              "Mounting Discs",
+              "SOLIDS",
+              "Off the Road (OTR)",
+              "Construction Treads",
+              "Smooth Treads"
+            ]
+          },
+          {
+            "name": "Undercarriages",
+            "subsubcategories": [
+              "Sleeve Bearing Tracks (SBT)",
+              "Rotating Bushing Tracks",
+              "Heavy-Duty Track (HD)",
+              "Rubber Undercarriages",
+              "Common Undercarriages",
+              "Sealed",
+              "Grease Lubricated Tracks",
+              "Enhanced SALT Tracks",
+              "General Duty"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

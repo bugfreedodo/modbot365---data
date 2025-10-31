@@ -1,0 +1,308 @@
+[
+  {
+    "categoryTypeId": "Spares",
+    "categories": [
+      {
+        "category": "Truck Spares and Parts",
+        "subcategories": [
+          {
+            "name": "Axles",
+            "subsubcategories": [
+              "Rear Axle Planetary Gears",
+              "Rear Axle Bearings",
+              "Front Axle King Pin Kits",
+              "Rear Axle Drive Shafts",
+              "Rear Axle Clutch Halves",
+              "Front Axle Track Rods",
+              "Rear Axle Crown Wheels and Pinions",
+              "Rear Axle Differential Housing Halves",
+              "Rear Axle Gears",
+              "Rear Axle Differential Spiders",
+              "Rear Axle Switches",
+              "Front Axle Ball Joints"
+            ]
+          },
+          {
+            "name": "Body",
+            "subsubcategories": [
+              "Accessories",
+              "Doors and Door Handles",
+              "Fenders",
+              "Hinges",
+              "Windscreen Wipers",
+              "Trucks for Stripping",
+              "Mudguard Brackets",
+              "Wind baffles and sun visor",
+              "Mirrors",
+              "Mudguards, Wings and Mudguard Brackets",
+              "Steps",
+              "Wind Deflectors and Sun Visors",
+              "Brackets",
+              "Windows",
+              "Window Regulators and Window Regulator Cranks",
+              "Rubber Seals",
+              "Panels",
+              "Gas Springs",
+              "Bumpers and Front Grilles"
+            ]
+          },
+          {
+            "name": "Brake Systems",
+            "subsubcategories": [
+              "Brake Camshafts",
+              "Brake Caliper",
+              "Air Tanks",
+              "Oil Coolers",
+              "Compressors",
+              "Brake Valves",
+              "Brake Drums",
+              "Slack Adjusters",
+              "Brake Discs",
+              "Brake Pedals",
+              "Brake Pad Kits",
+              "Brake Cylinders",
+              "Air Dryers",
+              "Brake Pipes and Hoses"
+            ]
+          },
+          {
+            "name": "Cab",
+            "subsubcategories": [
+              "Heating Control Valves",
+              "Air Filters, Compressors and Air Conditioning",
+              "Horns",
+              "Vibration Absorbers",
+              "Water Tanks",
+              "Level Valves",
+              "Lock Cylinder Kits",
+              "Air Bellows",
+              "Hose Assembly",
+              "Cab Shock Absorbers",
+              "Sensors",
+              "Hood Locks",
+              "Full Units",
+              "Hydraulic Pumps",
+              "Cab Stabilisers",
+              "Wiper Bearings and Nozzles",
+              "Condensers and Capacitors",
+              "Heat Exchanger",
+              "Fan Motors",
+              "Cab Tilt Cylinders",
+              "Washer Pumps",
+              "Wiper Motors"
+            ]
+          },
+          {
+            "name": "Clutches And Pedals",
+            "subsubcategories": [
+              "Pressure Plates",
+              "Clutch Kits",
+              "Clutch Cylinders and Hoses",
+              "Hand Throttle Controls",
+              "Clutch Pedals and Servos",
+              "Release Bearings and Forks",
+              "Clutch Discs"
+            ]
+          },
+          {
+            "name": "Cooling Systems",
+            "subsubcategories": [
+              "Pressure Valves",
+              "Belt Tensioners and Pulleys",
+              "Radiators And Radiator Housing",
+              "Fans, Fan Covers and Fan Hubs",
+              "Intercoolers",
+              "Coolant Filters",
+              "Level Sensors",
+              "Charge Air Hoses",
+              "Thermostats",
+              "Expansion Tanks",
+              "Water Pumps",
+              "Tensioner Pulleys"
+            ]
+          },
+          {
+            "name": "Electrical Systems",
+            "subsubcategories": [
+              "Dynamos",
+              "Batteries",
+              "Headlamps and Tail Lamps",
+              "Relays",
+              "Turn Signal Lamps",
+              "Alternators",
+              "Starter Motors",
+              "Switches"
+            ]
+          },
+          {
+            "name": "Engines",
+            "subsubcategories": [
+              "Cylinder Blocks",
+              "Gasket Kits",
+              "Filter Kits",
+              "Camshafts",
+              "Cylinder Heads",
+              "Flywheels",
+              "Valve Covers",
+              "Pistons",
+              "Liners",
+              "Battery Body Box",
+              "Oil Filters, Sumps And Cleaners",
+              "Turbo Chargers",
+              "Flywheel Housings",
+              "Oil Coolers And Pressure Sensors",
+              "Oil Pumps And Dipsticks",
+              "Rocker Arms",
+              "Full Units",
+              "Timing Cases",
+              "Engine Suspension"
+            ]
+          },
+          {
+            "name": "Exhaust Systems",
+            "subsubcategories": [
+              "Heat Shields",
+              "Control Cylinders",
+              "Silencers",
+              "Clamps",
+              "Air Filters",
+              "Exhaust Pipes",
+              "Engine and Motor Brakes",
+              "Exhaust Manifolds"
+            ]
+          },
+          {
+            "name": "Fuel Systems",
+            "subsubcategories": [
+              "Anti Theft",
+              "Fuel Tanks",
+              "Fuel Filters",
+              "Fuel Pipes",
+              "Fuel Level Sensors",
+              "Solenoid Valves",
+              "Injection Lines and Nozzles",
+              "Water Separator Filters",
+              "Tensioning Bands",
+              "Overflow Valves",
+              "Temperature Sensors",
+              "Drain Taps",
+              "Bleed Valves",
+              "Feed Pumps",
+              "Injector Units",
+              "Filler Caps",
+              "Accessories"
+            ]
+          },
+          {
+            "name": "Gearboxes",
+            "subsubcategories": [
+              "Synchroniser Units and Rings",
+              "Gasket Kits",
+              "Input, Main and Countershafts",
+              "Gear Levers and Handles",
+              "Oil Filters",
+              "Oil Pumps",
+              "Oil Coolers",
+              "Pipes",
+              "Planetary Gears",
+              "Full Units",
+              "Gearbox Suspension",
+              "Gears",
+              "Pressure-Limiting Valves",
+              "Shifting Cylinders",
+              "End Yokes"
+            ]
+          },
+          {
+            "name": "Hubs and Wheels",
+            "subsubcategories": [
+              "Shaft Seal Rings",
+              "Wheel Bolts and Nuts",
+              "Wheel Hubs and Hub Covers",
+              "Wheel Bearings"
+            ]
+          },
+          {
+            "name": "Propeller Shafts",
+            "subsubcategories": [
+              "Drive Shafts",
+              "Journal Crosses",
+              "Support Bearing Stubs",
+              "Centre Bearings",
+              "Flanges"
+            ]
+          },
+          {
+            "name": "Seals and O-Rings",
+            "subsubcategories": [
+              "Seals For Fuel Systems",
+              "Bulk Seals",
+              "O-Rings",
+              "Rectangular Seals and Rings",
+              "O-Ring Seal Kits",
+              "Sealing Washers",
+              "Backup Rings",
+              "Resealable O-Ring Packages"
+            ]
+          },
+          {
+            "name": "Steering",
+            "subsubcategories": [
+              "Steering Boxes",
+              "Steering Columns",
+              "Servo Pumps",
+              "Steering Hoses",
+              "Ignition Locks",
+              "Oil Filters",
+              "Oil Reservoirs",
+              "Steering Wheel Locks"
+            ]
+          },
+          {
+            "name": "Suspension",
+            "subsubcategories": [
+              "Leaf Springs",
+              "Shock Absorbers",
+              "K-Bolts",
+              "Reaction Rods",
+              "Level Valves",
+              "Hydraulic Pumps",
+              "Spring Bolt Kits",
+              "Level Sensors",
+              "Spring Saddles",
+              "Stabilisers",
+              "V-Stays",
+              "Valves",
+              "Air Springs",
+              "Solenoid Switches",
+              "Rubber Bearings"
+            ]
+          },
+          {
+            "name": "Tyres",
+            "subsubcategories": [
+              "Off the Road (OTR)",
+              "Smooth Treads",
+              "Mounting Discs",
+              "Construction Treads"
+            ]
+          },
+          {
+            "name": "Undercarriages",
+            "subsubcategories": [
+              "Grease Lubricated Tracks",
+              "Rubber Undercarriages",
+              "Rotating Bushing Tracks",
+              "Heavy-Duty Track (HD)",
+              "General Duty",
+              "Common Undercarriages",
+              "Sleeve Bearing Tracks (SBT)",
+              "Sealed",
+              "Enhanced SALT Tracks"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,381 @@
+[
+  {
+    "section_title": "General Advertising Policy",
+    "rule_summary": "Ads must be clear, truthful, and high-quality with accurate titles, original images, correct categorization, and complete information.",
+    "detailed_rules": [
+      "Ad titles must accurately reflect the item/service being advertised, not just generic terms like 'vehicle' or 'FOR SALE'",
+      "Remove contact numbers, prices, excessive punctuation, special characters, emojis, and fancy fonts from ad titles",
+      "Images must be original, relevant, and free from watermarks, screenshots, generic stock photos, or AI-generated styled images",
+      "No images depicting nudity, sex, violence, cruelty, neglect, racism, or discrimination",
+      "Price details must be clear; if missing, suggest editing price to 'contact me'",
+      "Category placement must be correct; suggest corrections if misplaced",
+      "Ad text should contain clear, detailed information about what is being advertised",
+      "No links to competitor website ads are allowed",
+      "Social media and business site links are allowed if related to ad content; YouTube product spec links not allowed",
+      "Refrain from duplicated ads (same content within 7 days, across regions/categories, or with jumbled text)",
+      "No foul language, defamatory comments, racism, sexism, or discrimination",
+      "Owner/Business Type verification requires human review"
+    ],
+    "violation_example": "Ad titled 'FOR SALE 082-555-1234 R5000!!!' with screenshot images from another retailer",
+    "allowed_exception": "Social media and business website links are welcomed if related to ad content",
+    "rejection_reason": "More Info, Generic Inappropriate, Images Not Related"
+  },
+  {
+    "section_title": "Ad Content Not Allowed",
+    "rule_summary": "Prohibits ads for illegal, inappropriate, or non-compliant content including pirated media, weapons, adult content, and restricted items.",
+    "detailed_rules": [
+      "No political or religious advertisement advocating specific groups or beliefs",
+      "No adult content including sensual/sexual massage, sex toys/services, personal ads, or pornographic media",
+      "No ads with warnings or complaints against other ads or traders (use system flag option instead)",
+      "No third-party data sharing or 'leads for sale' ads (POPI Act compliance)",
+      "No tobacco or tobacco products including vaping liquids/pods (devices and accessories allowed)",
+      "No alcohol or alcohol-related products (vintage wines allowed as collector's items if not available retail)",
+      "No ads for illegal content, goods, activities, services, or substances",
+      "No hacking or bypassing paid products services",
+      "No pirated media (music, software, movies, e-books, games) sold on external memory",
+      "No pirate copies or copyright infringement of brand names in clothes, handbags, accessories",
+      "No eBook/Kindle/Kobo data or software (devices allowed if price is all-inclusive)",
+      "No gambling ads or links to gambling websites/apps",
+      "No requests for money or airtime donations (clothes, food, furniture donations allowed)",
+      "No ads for hazardous materials like asbestos or mercury"
+    ],
+    "violation_example": "Ad offering pirated movies on USB drive, or requesting airtime donations",
+    "allowed_exception": "Vaping devices and accessories allowed (not liquids/pods). Vintage wines as collector's items if not available retail. Internal downloaded games on Xbox/PlayStation allowed if clearly stated.",
+    "rejection_reason": "Generic Inappropriate, Pirated Media, Work from Home"
+  },
+  {
+    "section_title": "Brand Restrictions - Copyright Protected",
+    "rule_summary": "Specific brands are banned from advertising due to copyright/trademark protection with legal implications.",
+    "detailed_rules": [
+      "Le Creuset cookware banned (exception: second-hand, one-off sales clearly marked as such)",
+      "AUTOCOM vehicle diagnostic tools banned",
+      "BONNOX fencing banned",
+      "100% Eyewear banned",
+      "FitLife products banned",
+      "DRIMAC jackets banned",
+      "FLOW beehives or any beehive with flow technology banned",
+      "PIGGYBACK trailers banned (only the Piggyback company itself can advertise their trailers)",
+      "SUPERDRY clothing brand banned",
+      "AUTODATA vehicle diagnostic software banned"
+    ],
+    "violation_example": "Ad selling new Le Creuset cookware set, or Flow beehive equipment",
+    "allowed_exception": "Le Creuset items allowed only if second-hand and clearly stated as such for one-off sale. Piggyback company can advertise their own trademarked trailers.",
+    "rejection_reason": "Generic Inappropriate"
+  },
+  {
+    "section_title": "Pirated Media",
+    "rule_summary": "Prohibits pirated or copied media, with exception for legitimately downloaded internal console games.",
+    "detailed_rules": [
+      "No pirated media including music, software, movies, e-books, or games",
+      "If content is sold on any form of external memory, it is no longer original and not allowed",
+      "Internal downloaded games on Xbox and PlayStation 3+ consoles are allowed",
+      "Games must be downloaded from Xbox Live or PlayStation Store and stored on device hard drive",
+      "Ad must clearly state 'Internal games downloaded from Xbox Live/PlayStation Store'"
+    ],
+    "violation_example": "Xbox console ad mentioning games on external hard drive, or games without clarifying they are internal downloads",
+    "allowed_exception": "Internal downloaded games on Xbox and PlayStation 3+ from official stores, clearly stated in ad",
+    "rejection_reason": "Pirated Media, More Info (if internal game info missing)"
+  },
+  {
+    "section_title": "Weapons and Firearms",
+    "rule_summary": "Automatic weapons, explosives, and excluded firearms are prohibited with specific exceptions for certain items.",
+    "detailed_rules": [
+      "No automatic weapons, exploding/fragmenting ammunition, grenades, bombs, explosive devices, rockets, or altered firearms",
+      "No parts of excluded weapons, imitations of excluded weapons, or ammunition for excluded weapons",
+      "Standard ammunition like hunting ammunition is allowed",
+      "No weapons/ammunition to swap for other goods/services",
+      "No wanted ads for firearms, ammunition, or weapons of any kind"
+    ],
+    "violation_example": "Ad offering automatic rifle parts or altered firearm",
+    "allowed_exception": "Stun bolts used in slaughterhouses, antique firearms, air guns, tranquilizer firearms, paintball guns, deactivated firearms, and standard hunting ammunition are allowed",
+    "rejection_reason": "Automatic Weapons"
+  },
+  {
+    "section_title": "International Ads",
+    "rule_summary": "Ads from outside South Africa or with foreign contact details are prohibited unless local presence exists.",
+    "detailed_rules": [
+      "Ads from outside South Africa are not allowed",
+      "Contact details must be local for users to view items being advertised",
+      "Service or items must be available in South Africa",
+      "Company base must be in South Africa",
+      "Look for international telephone numbers or mentions of foreign countries as service provider source"
+    ],
+    "violation_example": "Ad with +44 UK phone number or mentioning service based in Dubai",
+    "allowed_exception": "International sellers allowed only if they have local South African presence and local contact details",
+    "rejection_reason": "Generic Inappropriate"
+  },
+  {
+    "section_title": "Dealership Advertising",
+    "rule_summary": "Car dealerships must provide name and physical address; more than four cars from a seller constitutes dealership activity.",
+    "detailed_rules": [
+      "Dealership NAME and PHYSICAL ADDRESS must appear in ad text",
+      "Advertising more than 4 cars at any given time is considered dealership activity, even if marked as 'owner' ads",
+      "Look for signs in images of dealership photos",
+      "Look for dealership language: financing arrangements, deliver nationwide, test-drive, documents required for application",
+      "Refrain from using more than one account to advertise for the same dealership",
+      "No vehicles advertised by several related dealerships causing stock duplication",
+      "Remove old stock when sold and keep active ads relative to actual cars available",
+      "Ensure vehicle specs are accurate regarding make, model, mileage, automatic/manual"
+    ],
+    "violation_example": "Seller with 6 car ads marked as 'owner' without dealership name and address in ad text",
+    "allowed_exception": "None",
+    "rejection_reason": "More Info"
+  },
+  {
+    "section_title": "Motoring Additional Rules",
+    "rule_summary": "Specific rules for vehicle advertising including import documentation and prohibited practices.",
+    "detailed_rules": [
+      "No imported cars unless specifically stated that all paperwork/import documents are available",
+      "No ads indicating 'takeover of instalments' (wanted or on offer)",
+      "No ads stating 'Blacklisted/ITC clients welcome' on vehicles or property (prohibited by NCA)",
+      "No ads mentioning practice of or services for 'mileage correction' on vehicles"
+    ],
+    "violation_example": "Ad for imported vehicle without mention of import documentation, or ad offering takeover of car payments",
+    "allowed_exception": "Imported cars allowed only if ad clearly states all paperwork and import documents are available",
+    "rejection_reason": "Generic Inappropriate, More Info"
+  },
+  {
+    "section_title": "Property Ads",
+    "rule_summary": "Property ads must not discriminate and RDP homes are prohibited from advertising.",
+    "detailed_rules": [
+      "Property ads may not discriminate against race, religion, sex, or creed when advertising for sale or rent",
+      "No RDP homes for sale or to rent are allowed",
+      "When advertising accommodation to SHARE, may specify male/female preference only, no other exclusions, and only for shared accommodation",
+      "No ads for 'free accommodation' or accommodation in exchange for unspecified services"
+    ],
+    "violation_example": "Ad for RDP home for rent, or room rental excluding specific racial groups",
+    "allowed_exception": "Male/female preference allowed only when advertising shared accommodation",
+    "rejection_reason": "Generic Inappropriate"
+  },
+  {
+    "section_title": "Consumables",
+    "rule_summary": "Specific rules for food products, with conditional allowances for pet food and dairy requiring business verification.",
+    "detailed_rules": [
+      "Fresh vegetables and unprocessed foods/feeds are welcome (corn, hay, beans, lucern, bird seeds/feed)",
+      "Catering companies advertising services or prepared meals for delivery are allowed",
+      "Dog/cat food (prepared animal feeds/pellets) allowed only if advertised by Pet Supply stores or Veterinary clinics with name in ad text",
+      "Dairy products (milk, cheese, ice cream) allowed only if ad contains company name and street address",
+      "NOT ALLOWED: frozen/fresh meat and eggs"
+    ],
+    "violation_example": "Individual selling pet food without being a pet store or vet clinic, or dairy products without company details",
+    "allowed_exception": "Pet food allowed from vet clinics and pet stores with name stated. Dairy allowed with company name and street address. Fresh vegetables and unprocessed feeds allowed.",
+    "rejection_reason": "Generic Inappropriate"
+  },
+  {
+    "section_title": "Medical Content",
+    "rule_summary": "Strict rules for medical practitioners and products, requiring practice numbers and prohibiting various medical-related items and services.",
+    "detailed_rules": [
+      "No use of or reference to virus names in ads as marketing tool (CORONA/COVID-19/AIDS/CANCER)",
+      "Medical/surgical face masks, hand sanitizer, surgical gloves only allowed for business advertisers with company name in ad text (homemade masks allowed)",
+      "No ads making medical claims to cure or treat any illnesses/medical conditions (physical or mental)",
+      "Ads for medical practitioners must include practice number in ad text",
+      "No ads for biological matter including organs for transplant, sperm (including animal), ova (including animal)",
+      "No ads seeking/offering surrogate motherhood",
+      "No ads seeking/offering adoption",
+      "No ads for medication (prescription or otherwise) including animal medication",
+      "No ads for herbal medication including CBD products",
+      "No ads for diet products or supplements",
+      "No ads for abortion services or abortion medication",
+      "No ads for cosmetic enhancement/surgery including penis/breast/bum/hips enlargements",
+      "No embalming powder, liquid, tools, or services",
+      "No ads for alternative medicine (spiritual healers, astrologists, crystal therapists, sangomas, traditional healers, herbalists, psychics)"
+    ],
+    "violation_example": "Medical practitioner ad without practice number, or ad claiming herbal product cures diabetes",
+    "allowed_exception": "Homemade masks allowed. Medical practitioners allowed if practice number included.",
+    "rejection_reason": "More Info (if practice number missing), Medical (for other medical policy violations)"
+  },
+  {
+    "section_title": "Job Ads",
+    "rule_summary": "Only casual job and job seeker ads allowed with full required information; work-from-home ads must meet strict criteria.",
+    "detailed_rules": [
+      "Only CASUAL JOB ads and JOB SEEKER ads allowed on Junk Mail (other jobs should go to www.jobmail.co.za)",
+      "Casual jobs may not include: adult services, live-in maids/secretary 'willing to go the extra mile', nude model ads",
+      "Job seekers must be 18 or older with age stated in ad",
+      "Work from home ads allowed only if stating product/service being sold/offered, company name, and where product will be sold from",
+      "No non-descript 'sending of emails' or data entry online work-from-home ads",
+      "No pyramid schemes where income generated from registration fees alone",
+      "No stokvel ads",
+      "All casual job ads must contain: company name, location, contact number, job description/assignment, salary remuneration details"
+    ],
+    "violation_example": "Work-from-home ad offering 'data entry online' without company name or product details, or casual job missing salary information",
+    "allowed_exception": "Work-from-home ads allowed if legitimate product/service with company name stated",
+    "rejection_reason": "More Info Jobs (casual jobs missing details), Work from Home (non-compliant work-from-home ads)"
+  },
+  {
+    "section_title": "Commercial Paid Advertising Only",
+    "rule_summary": "Specific categories that can only be placed as paid commercial ads, not free ads.",
+    "detailed_rules": [
+      "Financial services ads (loans, debt help, blacklisted assistance, get out of debt)",
+      "Rent-to-own vehicles",
+      "Medical aid/insurance/funeral policies (must include FSP info and underwriting company name with 'registered financial services provider' wording)",
+      "Livestock ads (cattle, sheep, pigs, goats) - animal policy still applies",
+      "Fireworks sale or event services",
+      "Petroleum products (petrol, diesel, biofuel) - must mention if licensed retail or wholesale distributor",
+      "Massage therapy/services - must include 'Registered practitioner in South Africa' per AHPCSA requirements (no sexual/sensual services)"
+    ],
+    "violation_example": "Free ad offering personal loans or debt consolidation services",
+    "allowed_exception": "These services are allowed as paid commercial ads only",
+    "rejection_reason": "Commercial Ad"
+  },
+  {
+    "section_title": "Animal Advertising Policy - General Rules",
+    "rule_summary": "Comprehensive rules to ensure responsible pet ownership and animal welfare, prohibiting breeding operations and exploitation.",
+    "detailed_rules": [
+      "No animals free to good home or giveaway ads",
+      "No animals to swap for other animals/services/goods",
+      "No animals sold for slaughter or meat (look for 'per kg' pricing or 'broiler chickens')",
+      "Minimum prices: small mammals (hamsters, rabbits, mice, guinea pigs, birds, poultry) = R50 each; all other animals (dogs, cats, horses, livestock) = R100 per animal",
+      "No pregnant animals for sale (watch for Afrikaans words 'dragtig/swanger')",
+      "No birds sold for hand-rearing",
+      "No geese/ducks advertised for plucking of feathers",
+      "No animals for live feeding of other animals (includes 'pienkies'/baby mice, day-old chicks)",
+      "No insects/bugs sold for live feeding of animals with explicit wording",
+      "No fertile eggs for hatching or day-old chicks of any poultry",
+      "No farmed animals or ads for work/mating/covering/stud/breeding services",
+      "No animals sold as 'breeding pairs' (except birds if not exotic or on exclusion list)",
+      "No teacup pigs",
+      "No animals on NEMBA lists (Invasive, Endangered, Prohibited) or CITES lists",
+      "No furs of any kind (faux fur must be stated)",
+      "No animal skins/hides except livestock skins (cow leather, sheep's wool)",
+      "No animal bones/horns, hunting trophies, ivory, elephant products, rhino horns/products",
+      "No donkeys for sale/wanted including hides or products",
+      "All animal ads must indicate province and city where located"
+    ],
+    "violation_example": "Ad offering free puppies, pregnant cow for sale, or day-old chicks",
+    "allowed_exception": "Breeding pairs of non-exotic birds not on exclusion lists. Livestock skins like cow leather and sheep's wool allowed.",
+    "rejection_reason": "Inappropriate Pet Content, More Info"
+  },
+  {
+    "section_title": "Minimum Age for Animals",
+    "rule_summary": "All animals must meet minimum age requirements before being advertised, with birth date or current age stated.",
+    "detailed_rules": [
+      "All ads must state either BIRTH DATE or CURRENT AGE of animal being sold",
+      "Dogs and cats: minimum 8 weeks old (if not yet 8 weeks, must state 'ready at 8 weeks')",
+      "Rabbits: minimum 6 weeks old",
+      "Mice/guinea pigs/hamsters: minimum 4 weeks old",
+      "Livestock babies (calves, lambs, piglets, kids): minimum 8 weeks old",
+      "Foals: minimum 6 months (if sold WITH mare, min age not applicable but birth date still required)",
+      "Birds: larger species minimum 6 months (24 weeks); smaller species and poultry minimum 3 months (12 weeks); age must be stated",
+      "If birth date provided and animal not yet minimum age, ad must state 'Ready at [minimum age]'"
+    ],
+    "violation_example": "Ad for 6-week-old puppy without 'ready at 8 weeks' statement, or animal ad with no age/birth date mentioned",
+    "allowed_exception": "Foals under 6 months allowed if sold with mare, but birth date still required",
+    "rejection_reason": "More Info (if age/birth date missing), Inappropriate Pet Content"
+  },
+  {
+    "section_title": "Prohibited Cosmetic Procedures",
+    "rule_summary": "Tail docking, ear cropping, and wing clipping are illegal unless medically required and heavily restricted in ads.",
+    "detailed_rules": [
+      "Tail docking illegal unless medically required (APA and veterinary act violation)",
+      "Ads for specific breeds MUST include clear image showing puppy tails: Jack Russell, Foxterrier, Doberman, Doberman Pincher, Boxer, Bullmastiff (also applies to cross breeds)",
+      "Cropped ears illegal unless medically required (APA and veterinary act violation)",
+      "Pinioning (wing clipping) - ads not allowed to mention pinioning or offer pinioning option/services"
+    ],
+    "violation_example": "Jack Russell puppy ad without images showing tails, or ad offering ear cropping services",
+    "allowed_exception": "Medically required procedures only",
+    "rejection_reason": "Inappropriate Pet Content, More Info"
+  },
+  {
+    "section_title": "Dogs and Cats - Sterilization and Restrictions",
+    "rule_summary": "Dogs and cats over 6 months must be sterilized; puppy mills prohibited; various restrictions on dog-related activities.",
+    "detailed_rules": [
+      "All dogs/cats 6 months and older must be sterilized with indication in ad text (sterilized/neutered/'fixed'/castrated/spayed)",
+      "Puppy mills not allowed (spotted by several breeds advertised simultaneously)",
+      "No dogs or cats wanted/looking for ads",
+      "No dogs wanted/offered as security/guard dogs, or training services for security/guard dogs",
+      "No ads for dog racing (illegal) or hunting using dogs",
+      "No training equipment or 'conditioning' equipment (dog treadmills, spring poles, flirt poles, shock collars, anti-barking collars)",
+      "No ads referring to 'game dog', quality of 'gameness', or 'game bloodline' (fighting dog terms)",
+      "No ads offering mating/covering/stud services",
+      "Only toy, miniature, or standard-sized breeds allowed (no TEACUP size of any breed)"
+    ],
+    "violation_example": "Ad for 8-month-old dog without sterilization mention, or multiple different breeds from one seller, or teacup Yorkie",
+    "allowed_exception": "None for sterilization requirement. Toy (2.3-5.4kg, 15-38cm), miniature (5.4-10.9kg, 25-38cm), and standard (over 10.9kg, over 38cm) sizes allowed.",
+    "rejection_reason": "Inappropriate Pet Content, More Info"
+  },
+  {
+    "section_title": "Banned Dog and Cat Breeds",
+    "rule_summary": "Comprehensive list of banned dog and cat breeds that cannot be advertised including cross breeds.",
+    "detailed_rules": [
+      "Pit Bull Terriers banned",
+      "American Pit Bull Terriers banned",
+      "American Staffordshire Terriers (Amstaff) banned",
+      "Bull Terriers (Varkhond) banned",
+      "Staffordshire Terriers/Staffies banned",
+      "Japanese Tosas banned",
+      "Sharpeis banned",
+      "Malamutes banned (note difference from Huskies which are allowed)",
+      "Dogo Argentina (Argentinian Fighting Dogs) banned",
+      "Fila Brasileiro (Brazilian Fighting Dogs) banned",
+      "Boerboels banned",
+      "Miperro De Presa Canario banned",
+      "Rottweiler/Rottie banned",
+      "Wolves/Timberwolves banned",
+      "Red/Blue Nose Carvers (Pitbull breed) banned",
+      "Cane Corso banned",
+      "Dapple or double dapple Dachshund (also piebald/brindle) banned (note difference from normal Dachshund colors which are allowed)",
+      "Russian Blue cat breed banned",
+      "Savannah cat breed banned",
+      "NO cross breeds of any banned breeds",
+      "Ads must mention breeds; cross breeds must mention both breeds",
+      "ALL Dachshund puppy ads (even non-dapple) must contain images of puppies"
+    ],
+    "violation_example": "Ad for Rottweiler puppy, Staffie-mix cross breed, or dapple Dachshund",
+    "allowed_exception": "Normal colored Dachshunds allowed (not dapple/piebald/brindle). Huskies allowed (not Malamutes).",
+    "rejection_reason": "Inappropriate Pet Content"
+  },
+  {
+    "section_title": "Exotic Animals, Reptiles, Fish, and Birds",
+    "rule_summary": "Extensive restrictions on exotic animals, reptiles, specific fish and bird species due to conservation, permits, and safety concerns.",
+    "detailed_rules": [
+      "No venomous snakes (Boa Constrictors, Burmese Python, Copperhead, Ramsays Python, Sand Python, Diamond/Carpet Python, Cobra)",
+      "No Bearded dragons or Crested Geckos",
+      "No Chameleons",
+      "No Tortoises or Turtles (Leopard tortoises, Slider turtles)",
+      "No Terrapins",
+      "No Spiders (Baboon spiders, Wolf spiders, Tarantulas)",
+      "No exotic mammals (Sugar gliders, Sloths, Coati mundi, Foxes, Raccoons, Tenrecs, Squirrels, Mongooses, Dassies, Chinchillas, Hedgehogs, Ferrets, Shrews, Otters, Meercats, Moles)",
+      "No large predators (Lions, Tigers, Puma, Jaguar, Leopard)",
+      "No Caracal, Civet, Jackals, Wolves, Timberwolves, Dingo, Coyote or hybrids",
+      "No primates (Capuchin or Marmoset monkeys)",
+      "No Okapi, Oribi, Duiker, Steenbok, Impala, Springbok, Eland, Sable",
+      "No prohibited fish species (Catfish, Mosquito Fish, Piranha, Eels, all Cichlids, Crayfish, Bass, Plecos, Loaches, Ghost Shrimp, Trout, Salmon, all Tilapia, Common Carp/Koi)",
+      "Tank with fish ads MUST mention fish species included",
+      "No Stingrays",
+      "No prohibited birds (Macaw, Cockatoo, Sun Conure, Waxbills, Jardins, Rosella, Ringnecks, Crested quail, Turquoise parrot, Green cheeked conure, Gouldian Finch, Red-rumped parrot, exotic Parrots, birds of prey)",
+      "Aviary with birds ads MUST mention bird species included",
+      "No African Grey birds (Timneh parrot, Congo parrot)",
+      "No Helmeted Guinea Fowl",
+      "No African penguins",
+      "No Mallard ducks (invasive species); waterfowl ads MUST mention species",
+      "No Indian Myna",
+      "No birds of prey (Owls, Crows, Eagles, Falcons)"
+    ],
+    "violation_example": "Ad for Bearded dragon, African Grey parrot, tank with fish but no species mentioned, or exotic hedgehog",
+    "allowed_exception": "None specified for these exotic/protected species",
+    "rejection_reason": "Inappropriate Pet Content"
+  },
+  {
+    "section_title": "Additional Valuable and Restricted Items",
+    "rule_summary": "Rules for valuable items requiring documentation and restricted precious materials.",
+    "detailed_rules": [
+      "No uncut diamonds for sale/advertising",
+      "Shaped/cut diamonds allowed only if ad states diamond grading certificate or proof of purchase available for buyer",
+      "No raw gold or platinum"
+    ],
+    "violation_example": "Ad offering uncut diamonds, or cut diamond without mentioning certificate availability",
+    "allowed_exception": "Cut/shaped diamonds allowed with grading certificate or proof of purchase stated in ad",
+    "rejection_reason": "Generic Inappropriate"
+  },
+  {
+    "section_title": "Separate Offer Ad Policy",
+    "rule_summary": "Ads must be for single items or related bundles, not unrelated items combined together.",
+    "detailed_rules": [
+      "Ads including unrelated items together must be separated into individual ads",
+      "Each item should have its own ad in the appropriate category"
+    ],
+    "violation_example": "Single ad offering bicycle, microwave, and garden tools together",
+    "allowed_exception": "Related items that naturally go together (e.g., console with controllers, furniture set)",
+    "rejection_reason": "Separate Offer Ad"
+  }
+]
